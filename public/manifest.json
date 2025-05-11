@@ -1,0 +1,15 @@
+{
+  "short_name": "СосБук",
+  "name": "Пазарувай със СосБук",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0b8480",
+  "background_color": "#f2dca6"
+}
